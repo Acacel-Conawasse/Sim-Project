@@ -1,0 +1,58 @@
+Bullet_ID | Firearm_ID | Caliber      | Weight_Grains | Bullet_Type
+1         | 1          | 9mm          | 115           | FMJ
+2         | 1          | 9mm          | 147           | FMJ
+3         | 2          | 9mm          | 115           | FMJ
+4         | 2          | 9mm          | 147           | FMJ
+5         | 3          | 9mm          | 115           | FMJ
+6         | 3          | 9mm          | 147           | FMJ
+7         | 4          | .45 ACP      | 230           | FMJ
+8         | 5          | 9mm          | 115           | FMJ
+9         | 5          | 9mm          | 147           | FMJ
+10        | 6          | 9mm          | 115           | FMJ
+11        | 6          | 9mm          | 147           | FMJ
+12        | 7          | 9mm          | 147           | FMJ
+13        | 7          | .40 S&W      | 180           | FMJ
+14        | 7          | .45 ACP      | 230           | FMJ
+15        | 8          | .357 Magnum  | 125           | JHP
+16        | 8          | .357 Magnum  | 158           | JHP
+17        | 9          | .45 Colt     | 225           | FMJ
+18        | 9          | .45 Colt     | 250           | FMJ
+19        | 10         | 9mm          | 115           | FMJ
+20        | 10         | 9mm          | 147           | FMJ
+21        | 11         | .223 Rem     | 55            | FMJ
+22        | 11         | .223 Rem     | 77            | BTHP
+23        | 12         | 7.62x39mm    | 123           | FMJ
+24        | 13         | 5.56x45mm    | 55            | FMJ
+25        | 13         | 5.56x45mm    | 77            | BTHP
+26        | 14         | .22 LR       | 36            | HV
+27        | 14         | .22 LR       | 40            | HV
+28        | 15         | .308 Win     | 150           | Various
+29        | 15         | .308 Win     | 180           | Various
+30        | 16         | .30-06       | 150           | Various
+31        | 16         | .30-06       | 180           | Various
+32        | 17         | Various      | Varies        | Various
+33        | 18         | .30-30 Win   | 150           | Various
+34        | 18         | .30-30 Win   | 170           | Various
+35        | 19         | 5.56x45mm    | 55            | FMJ
+36        | 19         | 5.56x45mm    | 77            | BTHP
+37        | 20         | 5.56x45mm    | 55            | FMJ (SCAR-L)
+38        | 20         | 5.56x45mm    | 77            | BTHP (SCAR-L)
+39        | 31         | 7.62x51mm    | 147           | BTHP (SCAR-H)
+40        | 31         | 7.62x51mm    | 168           | BTHP (SCAR-H)
+41        | 21         | 7.62x51mm    | 147           | FMJ
+42        | 22         | 5.56x45mm    | 55            | FMJ
+43        | 22         | 5.56x45mm    | 77            | BTHP
+44        | 23         | 7.92x57mm    | 198           | FMJ
+45        | 24         | .50 BMG      | 647           | A-MAX
+46        | 24         | .50 BMG      | 750           | A-MAX
+47        | 25         | 7.62x54mmR   | 182           | FMJ
+48        | 25         | 7.62x54mmR   | 200           | FMJ
+49        | 26         | 5.56x45mm    | 55            | FMJ
+50        | 26         | 5.56x45mm    | 77            | BTHP
+51        | 27         | 9mm          | 115           | FMJ
+52        | 27         | 9mm          | 147           | FMJ
+53        | 28         | 9mm          | 115           | FMJ
+54        | 28         | 9mm          | 147           | FMJ
+55        | 29         | .45 ACP      | 230           | FMJ
+56        | 30         | 5.56x45mm    | 55            | FMJ
+57        | 30         | 5.56x45mm    | 77            | BTHP

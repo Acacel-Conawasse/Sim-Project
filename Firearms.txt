@@ -1,0 +1,32 @@
+Firearm_ID | Name                          | Type         | Muzzle_Velocity
+1          | Glock 17                      | Handgun      | 350 m/s
+2          | SIG Sauer P320                | Handgun      | 350 m/s
+3          | Beretta 92FS                  | Handgun      | 381 m/s
+4          | Colt M1911                    | Handgun      | 253 m/s
+5          | Smith & Wesson M&P9           | Handgun      | 370 m/s
+6          | Walther P99                   | Handgun      | 354 m/s
+7          | H&K USP                       | Handgun      | 338 m/s
+8          | Ruger GP100                   | Handgun      | 290 m/s
+9          | Taurus Judge                  | Handgun      | 280 m/s
+10         | CZ 75                         | Handgun      | 340 m/s
+11         | AR-15                         | Rifle        | 975 m/s
+12         | AK-47                         | Rifle        | 715 m/s
+13         | M16                           | Rifle        | 975 m/s
+14         | Ruger 10/22                   | Rifle        | 366 m/s
+15         | Remington 700                 | Rifle        | 800 m/s
+16         | Winchester Model 70           | Rifle        | 730 m/s
+17         | Savage Model 99               | Rifle        | 700 m/s
+18         | Marlin Model 336              | Rifle        | 730 m/s
+19         | Steyr AUG                     | Rifle        | 970 m/s
+20         | FN SCAR-L                     | Rifle        | 870 m/s
+31         | FN SCAR-H                     | Rifle        | 715 m/s 
+21         | M60                           | Machine Gun  | 850 m/s
+22         | M249 SAW                      | Machine Gun  | 915 m/s
+23         | MG42                          | Machine Gun  | 740 m/s
+24         | Browning M2                   | Machine Gun  | 890 m/s
+25         | PKM                           | Machine Gun  | 825 m/s
+26         | FN Minimi                     | Machine Gun  | 915 m/s
+27         | H&K MP5                       | Machine Gun  | 400 m/s
+28         | Uzi                           | Machine Gun  | 400 m/s
+29         | Thompson submachine gun       | Machine Gun  | 280 m/s
+30         | Heckler & Koch G36C           | Machine Gun  | 920 m/s
